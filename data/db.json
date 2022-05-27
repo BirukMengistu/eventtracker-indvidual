@@ -1,0 +1,52 @@
+{
+ 
+    "Events": [
+        {   "id":355,
+            "event_start_date": "2022-05-12T18:00:00",
+            "event_end_date": "2022-05-13T18:00:00",
+            "description": "Open City hosts a weekly event in which. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker  including versions of Lorem Ipsum.",
+            "venue_name": "1871",
+            "url": "https://chihacknight.org/images/blog/2015-01-06-open-gov-hack-night-2014-year-in-review/img1.jpg",
+            "price": "Free",
+            "title": "Open Gov Hack Night",
+            "city_name": "Chicago",
+            "meal":"Lunch free and beverage" , "dresscode": "mandatory"
+        },
+        {  
+            "id":365,
+            "event_start_date": "2022-05-28T09:00:00",
+            "event_end_date": "2022-05-28T12:00:00",
+            "description": "AWS hosts a Morning event in which. Lorem Ipsum is simply dummy text of the printing and  typesetting industry. ",
+            "venue_name": "13246",
+            "url": "https://pbs.twimg.com/profile_images/1473756532827246593/KRgw2UkV_400x400.jpg",
+            "price": "Free",
+            "meal":"Lunch free and beverage" ,
+             "dresscode": "mandatory" ,
+            "title": "AWS Cloud futures",
+            "city_name": "Solna"
+        } ,
+        {  "id":315,
+            "event_start_date": "2022-07-12T09:00:00",
+            "event_end_date": "2022-07-12T18:00:00",
+            "description": "Microsoft hosts a Monthly event in which.Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+            "venue_name": "1871",
+            "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/microsoft-800x534.jpg",
+            "price": "Free",
+           "meal":"Lunch free and beverage" , "dresscode": "mandatory" ,
+            "title": "Microsoft 2022",
+            "city_name": "Kista"
+        },
+        {  
+            "id":455,
+            "event_start_date": "2022-06-12T18:00:00",
+            "event_end_date": "2022-06-13T18:00:00",
+            "description": "Telia hosts a weekly event in which.Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+            "venue_name": "1871",
+            "url": "https://kongahallacenter.se/wp-content/uploads/2019/02/lagupplost-telia-kongahalla-center-1280x854.jpg",
+            "price": "Free",
+            "meal":"Lunch free and beverage" , "dresscode": "mandatory" ,
+            "title": "Ericsion Opining",
+            "city_name": "KIsta"
+        }     
+    ]
+}
